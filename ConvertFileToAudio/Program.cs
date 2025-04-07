@@ -8,7 +8,7 @@ namespace ConvertFileToAudio
     {
         static void Main(string[] args)
         {
-            DirectoryInfo dirInfo = new DirectoryInfo(" ");
+            DirectoryInfo dirInfo = new DirectoryInfo("FileConverted");
             if (!dirInfo.Exists)
             {
                 dirInfo.Create();
