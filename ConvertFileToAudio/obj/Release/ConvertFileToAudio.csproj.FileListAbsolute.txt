@@ -1,0 +1,9 @@
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\bin\Release\ConvertFileToAudio.exe.config
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\bin\Release\ConvertFileToAudio.exe
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\bin\Release\ConvertFileToAudio.pdb
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\bin\Release\cs-ffmpeg-mp3-converter.dll
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\obj\Release\ConvertFileToAudio.csproj.AssemblyReference.cache
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\obj\Release\ConvertFileToAudio.csproj.CoreCompileInputs.cache
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\obj\Release\ConvertF.BE10EEA7.Up2Date
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\obj\Release\ConvertFileToAudio.exe
+C:\Users\XraeN\source\repos\ConvertFileToAudio\ConvertFileToAudio\obj\Release\ConvertFileToAudio.pdb
